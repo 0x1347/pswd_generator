@@ -13,7 +13,7 @@ int main() {
 	srand(time(0));
 	cout << "The Password :";
 	for (int y = 1; y < x+1; y++) {
-		int DecNum,num;
+		int DecNum;
 		DecNum = (rand() % 93 + 33);
 		cout << (char) DecNum ;
 		}
