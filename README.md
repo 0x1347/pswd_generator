@@ -1,2 +1,2 @@
 # pswd_generator
-python script to generate passwords
+python and C++ script to generate passwords
